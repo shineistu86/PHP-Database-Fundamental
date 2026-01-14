@@ -1,0 +1,7 @@
+# Environment specific files
+.env
+config.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
